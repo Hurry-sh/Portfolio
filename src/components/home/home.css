@@ -29,10 +29,22 @@
     transition: 0.4s;
 }
 
-.home__title {
+/* .home__title {
     font-size: var(--big-font-size);
     margin-bottom: var(--mb-0-25);
     color: #fff;
+} */
+
+.home__title {
+    font-size: var(--big-font-size);
+    margin-bottom: var(--mb-0-25);
+    /* background: linear-gradient(to right , #fc72ff, #8f68ff , #00aaff , #8f68ff , #fc72ff); */
+    background: linear-gradient(to right , #72ff85, #68ffff , #00aaff , #68ffff , #72ff85);
+    background-size: 200%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: animate-gradient 2.5s linear infinite;
 }
 
 .home__hand {
