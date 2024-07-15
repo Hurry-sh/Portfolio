@@ -96,3 +96,17 @@
     /* background: linear-gradient(to right , #ff006a , #ff8800 ,  #ffffff , #fbff00 , #00ffc8); */
     border-radius: 50%;
 }
+
+/* @media screen and (max-width: 992px) {
+    .qualification__container {
+        grid-template-columns: 1fr;
+        row-gap: 1.5rem;
+    }
+} */
+@media screen and (max-width: 470px) {
+    .qualification__container {
+        width: 100%;
+        height: 100%;
+        align-items: center;
+    }
+}
