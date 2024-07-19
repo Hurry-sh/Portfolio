@@ -151,12 +151,15 @@ img {
     color: var(--container-color);
     padding: 1.25rem 2rem;
     border-radius: 1rem;
+    border: 2.5px solid rgb(0, 0, 0);
 
     font-weight: var(--font-medium);
 }
 
 .button:hover {
-    background-color: rgb(1, 219, 219);
+    /* background-color: rgb(1, 219, 219); */
+    border: 2.5px solid #fff;
+    /* border-radius: 1rem; */
     transition: 1s;
 }
 

@@ -109,8 +109,6 @@ const Qualification = () => {
                             </div>  
                         </div>
 
-                        
-                        
                         <div className="qualification__data">
                             <div>
                                 <h3 className="qualification__title">Research Intern</h3>

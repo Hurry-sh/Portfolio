@@ -23,12 +23,13 @@
 }
 
 .qualification__button:hover {
-    /* color: rgb(255, 225, 0);  */
-    background: linear-gradient(to right , #f021f3 , #08efff);
+    color: rgb(255, 225, 0); 
+    /* background: linear-gradient(to right , #f021f3 , #08efff);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text; 
-    animation-direction: alternate-reverse; 
+    animation-direction: alternate-reverse;  */
     transition: 0.4s;
+    /* animation: animate-gradient 2.5s linear infinite; */
 }
 
 
@@ -82,10 +83,10 @@
     display: block;
     width: 1.5px;
     height: 100%;
-    background: linear-gradient(#f32170 , #ff6b08 , #eedd44 , #fff);
-    /* background: linear-gradient(#f32195 , #ff6b08 , #eedd44 , #fff); */
-    -webkit-text-fill-color: transparent; 
-    -webkit-background-clip: none;
+    /* background: linear-gradient(#f32170 , #ff6b08 , #eedd44 , #fff); */
+    /* -webkit-text-fill-color: transparent;  */
+    /* -webkit-background-clip: none; */
+    background-color: #fff;
     transform: translate(6px , -7px);
 }
 
