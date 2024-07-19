@@ -3,6 +3,7 @@ import work2 from "../../assets/work2_3.png";
 import work3 from "../../assets/work3_3.png";
 import work4 from "../../assets/work4_4.png";
 import work5 from "../../assets/work5_5.png";
+import work6 from "../../assets/work6.png";
 
 export const projectsData = [
     {
@@ -43,6 +44,14 @@ export const projectsData = [
         title: "Hand Writing Recognition",
         category: "ML/DL",
         link: "https://github.com/Hurry-sh/Hand-Writing-Recognition",
+    },
+
+    {
+        id: 6,
+        image: work6,
+        title: "My Portfolio",
+        category: "Web-Design",
+        link: "https://github.com/Hurry-sh/Portfolio",
     },
 ];
 
