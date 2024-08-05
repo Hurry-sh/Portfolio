@@ -4,7 +4,7 @@ import React from "react";
 const Data = () => {
     return (
         <div className="home__data">
-            <h1 className="home__title">Harish K
+            <h1 className="home__title"> Harish K
             <svg
                   width="36"
                   height="36"
@@ -54,8 +54,6 @@ const Data = () => {
                     fill="#EBA352"
                   ></path>
             </svg>
-
-
             </h1>
             <h3 className="home__subtitle">B.Tech CSE Student</h3>
             <p className="home__description">

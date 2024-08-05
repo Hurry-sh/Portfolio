@@ -94,6 +94,51 @@
     animation: profile__animate 8s ease-in-out infinite 1s;
 }
 
+.wrapper {
+    display: inline-flex;
+}
+
+.wrapper .dynamic-txts {
+    overflow: hidden;
+}
+
+.dynamic-txts li{
+    list-style: none;
+    color: #49fff9;
+    position: relative;
+    top: 0;
+    animation: slide 5s steps(3) infinite;
+}
+
+@keyframes slide {
+    100% {
+        top: -260px;
+    }
+}
+
+
+.dynamic-txts li span{
+    position: relative;
+}
+
+.dynamic-txts li span::after{
+    content: "";
+    position: absolute;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: rgb(23, 22, 22);
+    border-left: 2px solid #fff;
+    animation: typing 1.5s steps(10) infinite;
+}
+
+@keyframes typing {
+    100% {
+        left: 100%;
+        margin: 0 -35px 0 35px;
+    }
+}
+
 @keyframes profile__animate {
     0% {
         border-radius: 60% 40% 30% 70%/60% 30% 70% 40%;
