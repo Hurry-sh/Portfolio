@@ -29,6 +29,24 @@ const Frontend = () => {
                     <i className = 'bx bx-badge-check'></i>
 
                     <div>
+                        <h3 className="skills__name">ML</h3>
+                        <span className="skills__level">Intermediate</span>
+                    </div>
+                    </div>
+
+                    <div className="skills__data">
+                    <i className = 'bx bx-badge-check'></i>
+
+                    <div>
+                        <h3 className="skills__name">DL</h3>
+                        <span className="skills__level">Basic</span>
+                    </div>
+                    </div>
+
+                    <div className="skills__data">
+                    <i className = 'bx bx-badge-check'></i>
+
+                    <div>
                         <h3 className="skills__name">MPCA</h3>
                         <span className="skills__level">Intermediate</span>
                     </div>
@@ -49,8 +67,8 @@ const Frontend = () => {
                     <i className = 'bx bx-badge-check'></i>
 
                     <div>
-                        <h3 className="skills__name">OS</h3>
-                        <span className="skills__level">Basic</span>
+                        <h3 className="skills__name">DA</h3>
+                        <span className="skills__level">Intermediate</span>
                     </div>
                     </div>
 
@@ -58,8 +76,26 @@ const Frontend = () => {
                     <i className = 'bx bx-badge-check'></i>
 
                     <div>
-                        <h3 className="skills__name">ML/DL</h3>
-                        <span className="skills__level">Basic</span>
+                        <h3 className="skills__name">BD</h3>
+                        <span className="skills__level">Intermediate</span>
+                    </div>
+                    </div>
+
+                    <div className="skills__data">
+                    <i className = 'bx bx-badge-check'></i>
+
+                    <div>
+                        <h3 className="skills__name">OS</h3>
+                        <span className="skills__level">Intermediate</span>
+                    </div>
+                    </div>
+
+                    <div className="skills__data">
+                    <i className = 'bx bx-badge-check'></i>
+
+                    <div>
+                        <h3 className="skills__name">GenAI</h3>
+                        <span className="skills__level">Intermediate</span>
                     </div>
                     </div>
                 </div>

@@ -102,9 +102,9 @@ const Qualification = () => {
                             </div>
                             <div>
                                 <h3 className="qualification__title">3rd year</h3>
-                                <span className="qualification__subtitle">CGPA : ???</span>
+                                <span className="qualification__subtitle">CGPA : 8.49</span>
                                 <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i> August 2024 - 2025
+                                    <i className="uil uil-calendar-alt"></i> August 2024 - Present
                                 </div>
                             </div>  
                         </div>

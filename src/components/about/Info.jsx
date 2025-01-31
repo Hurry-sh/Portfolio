@@ -7,7 +7,7 @@ const Info = () => {
             <i className='bx bx-bulb about__icon'></i>
 
                 <h3 className="about__title">Experience</h3>
-                <span className="about__subtitle">Technical Member @NeuralHive PESU-ECC + Research Intern @CCNCS.</span>
+                <span className="about__subtitle">Technical Member @NeuralHive + Research Intern @CCNCS.</span>
             </div>
 
             <div className="about__box">
@@ -21,7 +21,7 @@ const Info = () => {
             <i className='bx bxs-graduation about__icon'></i>
 
                 <h3 className="about__title">CGPA</h3>
-                <span className="about__subtitle">8.39</span>
+                <span className="about__subtitle">8.49</span>
             </div>
         </div>
     )
