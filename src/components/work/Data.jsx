@@ -4,6 +4,7 @@ import work3 from "../../assets/work3_3.png";
 import work4 from "../../assets/work4_4.png";
 import work5 from "../../assets/work5_5.png";
 import work6 from "../../assets/work6.png";
+import work7 from "../../assets/work7.png";
 
 export const projectsData = [
     {
@@ -52,6 +53,14 @@ export const projectsData = [
         title: "My Portfolio",
         category: "Web-Design",
         link: "https://github.com/Hurry-sh/Portfolio",
+    },
+
+    {
+        id: 7,
+        image: work7,
+        title: "Distributed File Server",
+        category: "Miniproject",
+        link: "https://github.com/Cloud-Computing-Big-Data/EC-Team-47-distributed-file-orchestration-and-synchronization",
     },
 ];
 
