@@ -5,6 +5,7 @@ import work4 from "../../assets/work4_4.png";
 import work5 from "../../assets/work5_5.png";
 import work6 from "../../assets/work6.png";
 import work7 from "../../assets/work7.png";
+import work8 from "../../assets/work8.png";
 
 export const projectsData = [
     {
@@ -19,7 +20,7 @@ export const projectsData = [
         id: 2,
         image: work2,
         title: "CCNCS Project",
-        category: "ML/DL",
+        category: "Machine Learning",
         link: "https://github.com/Hurry-sh/CCNCS-Project",
     },
 
@@ -27,7 +28,7 @@ export const projectsData = [
         id: 3,
         image: work3,
         title: "Socket Programming",
-        category: "Miniproject",
+        category: "Computer Networks",
         link: "https://github.com/Hurry-sh/Time-Server-Socket-Programming",
     },
 
@@ -35,7 +36,7 @@ export const projectsData = [
         id: 4,
         image: work4,
         title: "Image Classifier (Dog and Cat)",
-        category: "ML/DL",
+        category: "Machine Learning",
         link:"https://github.com/Hurry-sh/CNN-Image-Classifier",
     },
 
@@ -43,7 +44,7 @@ export const projectsData = [
         id: 5,
         image: work5,
         title: "Hand Writing Recognition",
-        category: "ML/DL",
+        category: "Machine Learning",
         link: "https://github.com/Hurry-sh/Hand-Writing-Recognition",
     },
 
@@ -59,8 +60,16 @@ export const projectsData = [
         id: 7,
         image: work7,
         title: "Distributed File Server",
-        category: "Miniproject",
+        category: "Big Data",
         link: "https://github.com/Cloud-Computing-Big-Data/EC-Team-47-distributed-file-orchestration-and-synchronization",
+    },
+
+    {
+        id: 8,
+        image: work8,
+        title: "Food Recipe Generator",
+        category: "Generative AI",
+        link: "https://github.com/Hurry-sh/Recipe-Generator-Using-GenAI.git",
     },
 ];
 
