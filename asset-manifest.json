@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.8a5b2254.css",
-    "main.js": "/Portfolio/static/js/main.3ca4523f.js",
+    "main.css": "/Portfolio/static/css/main.974d8482.css",
+    "main.js": "/Portfolio/static/js/main.19ecf280.js",
     "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
     "static/media/work1_1.png": "/Portfolio/static/media/work1_1.d4d756fe82a845a08e19.png",
-    "static/media/profile_1.jpg": "/Portfolio/static/media/profile_1.dc645eaf4b7f4a18ca57.jpg",
+    "static/media/profile_4.jpg": "/Portfolio/static/media/profile_4.ab7a336c68c5e477cbdc.jpg",
+    "static/media/profile_new.jpg": "/Portfolio/static/media/profile_new.6ab3406c6a3826d77990.jpg",
     "static/media/work6.png": "/Portfolio/static/media/work6.ae9909466a9d4938300b.png",
     "static/media/work7.png": "/Portfolio/static/media/work7.56fad4e9bf06c7a0165c.png",
     "static/media/work2_3.png": "/Portfolio/static/media/work2_3.77f2def8bb5712b1b82a.png",
     "static/media/work4_4.png": "/Portfolio/static/media/work4_4.1ab074d132d98e6907d0.png",
     "static/media/work5_5.png": "/Portfolio/static/media/work5_5.3f9cea897b2dc999e5d5.png",
     "static/media/work3_3.png": "/Portfolio/static/media/work3_3.457ac9bbdfb88e4f4f19.png",
-    "static/media/profile.jpg": "/Portfolio/static/media/profile.c0a5715456fcc99ea8b3.jpg",
+    "static/media/work8.png": "/Portfolio/static/media/work8.119f04b37fe670bb7cd1.png",
     "index.html": "/Portfolio/index.html",
-    "main.8a5b2254.css.map": "/Portfolio/static/css/main.8a5b2254.css.map",
-    "main.3ca4523f.js.map": "/Portfolio/static/js/main.3ca4523f.js.map",
+    "main.974d8482.css.map": "/Portfolio/static/css/main.974d8482.css.map",
+    "main.19ecf280.js.map": "/Portfolio/static/js/main.19ecf280.js.map",
     "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a5b2254.css",
-    "static/js/main.3ca4523f.js"
+    "static/css/main.974d8482.css",
+    "static/js/main.19ecf280.js"
   ]
 }
