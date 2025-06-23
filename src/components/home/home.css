@@ -41,7 +41,6 @@
     margin-bottom: var(--mb-0-25);
     background: linear-gradient(to right , #fc72ff, #8f68ff , #00aaff , #8f68ff , #fc72ff);
     /* background: linear-gradient(to right , #25e43e, #68ffff , #21a6ff , #68ffff , #25e43e); */
-    /* background: linear-gradient(to right , orange , yellow); */
     background-size: 200%;
     background-clip: text;
     -webkit-background-clip: text;
@@ -184,7 +183,7 @@
 }
 
 .button {
-    color: #fff;
+    color: #ffffff;
 }
 
 @media screen and (max-width: 992px) {
