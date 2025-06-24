@@ -7,13 +7,13 @@
 }
 
 .skills__title {
-    /* color: #fff; */
-    background: linear-gradient(to right , #5ffa51, #3ef9ff , #477bff , #3ef9ff , #5ffa51);
+    color: #fff;
+    /* background: linear-gradient(to right , #5ffa51, #3ef9ff , #477bff , #3ef9ff , #5ffa51);
     background-size: 200%;
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    animation: animate-gradient 2.5s linear infinite;
+    animation: animate-gradient 2.5s linear infinite; */
     /* text-align: center; */
     /* display: inline; */
     font-size: var(--normal-font-size);
@@ -54,7 +54,16 @@
 .skills .bx-badge-check {
     font-size: 1rem;
     /* color: var(--title-color); */
-    color: rgb(51, 255, 0);
+    /* color: rgb(51, 255, 0); */
+    /* background: linear-gradient(to right , #fc72ff, #8f68ff , #487bff , #8f68ff , #fc72ff); */
+    background: linear-gradient(to right , #ffe100, #3cff00 , #66fef9, #66fef9 , #3cff00 , #ffe100);
+    background-size: 200%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: animate-gradient 2.5s linear infinite;
+    /* text-align: center; */
+    display: inline;
 }
 
 .skills__name {
