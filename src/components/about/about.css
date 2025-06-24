@@ -48,7 +48,13 @@
 
 .about__icon {
     font-size: 1.5rem;
-    color: #00c8ff;
+    /* color: #00c8ff; */
+    background: linear-gradient(to right , #fc72ff, #8f68ff , #00aaff , #8f68ff , #fc72ff);
+    background-size: 200%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: animate-gradient 2.5s linear infinite;
     margin-bottom: var(--mb-0-5);
 }
 
