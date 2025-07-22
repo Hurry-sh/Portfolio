@@ -1,19 +1,29 @@
 import work1 from "../../assets/work1_1.png";
-import work2 from "../../assets/work2_3.png";
+import work2 from "../../assets/work2.png";
 import work3 from "../../assets/work3_3.png";
 import work4 from "../../assets/work4_4.png";
 import work5 from "../../assets/work5_5.png";
 import work6 from "../../assets/work6.png";
 import work7 from "../../assets/work7.png";
 import work8 from "../../assets/work8.png";
+import work9 from "../../assets/work9.png";
 
 export const projectsData = [
+
     {
-        id: 1,
-        image: work1,
-        title: "PESU Website",
-        category: "Web-Design",
-        link: "https://github.com/Hurry-sh/PESU-Website-Development",
+        id: 8,
+        image: work8,
+        title: "Food Recipe Generator",
+        category: "Generative AI",
+        link: "https://github.com/Hurry-sh/Recipe-Generator-Using-GenAI.git",
+    },
+
+    {
+        id: 9,
+        image: work9,
+        title: "C3I Project",
+        category: "Machine Learning",
+        link: "https://github.com/Hurry-sh/C3I_Internship_Project",
     },
 
     {
@@ -23,6 +33,15 @@ export const projectsData = [
         category: "Machine Learning",
         link: "https://github.com/Hurry-sh/CCNCS-Project",
     },
+
+    {
+        id: 1,
+        image: work1,
+        title: "PESU Website",
+        category: "Web-Design",
+        link: "https://github.com/Hurry-sh/PESU-Website-Development",
+    },
+
 
     {
         id: 3,
@@ -64,13 +83,6 @@ export const projectsData = [
         link: "https://github.com/Cloud-Computing-Big-Data/EC-Team-47-distributed-file-orchestration-and-synchronization",
     },
 
-    {
-        id: 8,
-        image: work8,
-        title: "Food Recipe Generator",
-        category: "Generative AI",
-        link: "https://github.com/Hurry-sh/Recipe-Generator-Using-GenAI.git",
-    },
 ];
 
 export const projectsNav = [
