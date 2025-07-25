@@ -57,7 +57,7 @@ const Data = () => {
             </h1>
             <h3 className="home__subtitle">B.Tech CSE Student</h3>
             <p className="home__description">
-                Hey! My name is Harish K and I am a student of PES University Electronic City Campus, Bengaluru. I am a developer and my field of interest is in Machine Learning and Data Science. Welcome to my portfolio!😊
+                Hey! My name is Harish K and I am a student of PES University, Bengaluru. I am a developer and my field of interest is in Machine Learning, Data Structures and Data Science. Welcome to my portfolio!😊
             </p>
 
             <a href="https://www.linkedin.com/in/harish-k-3b98b9317/" rel="noreferrer" target = "_blank" className="button button--flex">
