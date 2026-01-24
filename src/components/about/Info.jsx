@@ -6,22 +6,30 @@ const Info = () => {
             <div className="about__box">
             <i className='bx bx-bulb about__icon'></i>
 
-                <h3 className="about__title">Experience</h3>
-                <span className="about__subtitle">Technical Member @NeuralHive + Research Intern @CCNCS & @C3I</span>
+                <h3 className="about__title">Club Activity</h3>
+                <span className="about__subtitle">Technical Member @NeuralHive, the AIML club of PESU-ECC</span>
+            </div>
+
+
+            <div className="about__box">
+            <i className='bx bx-medal about__icon'></i>
+
+                <h3 className="about__title">Internships</h3>
+                <span className="about__subtitle">Research Intern @CCNCS & @C3I + Data Engineer @BigBasket</span>
             </div>
 
             <div className="about__box">
             <i className='bx bx-award about__icon'></i>
 
                 <h3 className="about__title">Scholarships</h3>
-                <span className="about__subtitle">5x Distinction Scholar</span>
+                <span className="about__subtitle">6x Distinction Scholar</span>
             </div>
 
             <div className="about__box">
             <i className='bx bxs-graduation about__icon'></i>
 
                 <h3 className="about__title">CGPA</h3>
-                <span className="about__subtitle">8.52</span>
+                <span className="about__subtitle">8.57</span>
             </div>
         </div>
     )

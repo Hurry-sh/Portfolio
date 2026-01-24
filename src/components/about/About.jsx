@@ -16,7 +16,7 @@ const About = () => {
                 <div className="about__data">
                     <Info />
 
-                    <p className="about__description">As a passionate tech enthusiast and developer, I have a solid grasp of Python, C & C++. My expertise extends to areas like Data Structures, Algorithm Analysis, Computer Architecture, Networks, Machine Learning, Data Analytics, Generative AI, Heterogenous Parallelism and many more. Collaborating with my teammates on various projects has enriched my knowledge, making me well-prepared for a rewarding journey in software development. 🚀
+                    <p className="about__description">As a passionate tech enthusiast and developer, I have a solid grasp of Python, C/C++, SQL and Java. My expertise extends to areas like Data Structures, Algorithm Analysis, Networks, Machine Learning, Data Analytics, Generative AI and Data Engineering. Collaborating with my teammates on various projects has enriched my knowledge, making me well-prepared for a rewarding journey in software development. 🚀
                     </p>
 
                     <a  href="https://github.com/Hurry-sh" className="button button--flex" target="_blank" rel="noreferrer">My GitHub &nbsp;
