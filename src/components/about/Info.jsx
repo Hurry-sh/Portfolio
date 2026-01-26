@@ -12,14 +12,14 @@ const Info = () => {
 
 
             <div className="about__box">
-            <i className='bx bx-medal about__icon'></i>
+            <i className='bx bx-briefcase-alt-2 about__icon'></i>
 
                 <h3 className="about__title">Internships</h3>
                 <span className="about__subtitle">Research Intern @CCNCS & @C3I + Data Engineer @BigBasket</span>
             </div>
 
             <div className="about__box">
-            <i className='bx bx-award about__icon'></i>
+            <i className='bx bx-medal about__icon'></i>
 
                 <h3 className="about__title">Scholarships</h3>
                 <span className="about__subtitle">6x Distinction Scholar</span>
