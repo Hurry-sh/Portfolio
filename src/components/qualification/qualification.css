@@ -126,8 +126,11 @@
     }
 
     .qualification__data {
-    justify-items: center;   /* THIS centers each column content */
-    align-items: center;
+    grid-template-columns: 1fr 30px 1fr;
+    column-gap: 0.8rem;
+    position: relative;
+    justify-items: center;   /* added */
+    align-items: center;     /* added */
 }
 
     /* Smaller fonts */
