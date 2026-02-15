@@ -108,23 +108,42 @@
 
 
 @media screen and (max-width: 768px) {
+
   .qualification_container {
     grid-template-columns: 1fr;
   }
 
   .qualification_data {
-    grid-template-columns: 20px 1fr;
+    grid-template-columns: 30px 1fr;
     column-gap: 1rem;
+    align-items: flex-start;
   }
 
+  /* Move timeline to left */
   .qualification_rounder {
-    display: block;
+    grid-column: 1;
   }
 
   .qualification_line {
-    display: block;
+    grid-column: 1;
   }
+
+  /* Content on right */
+  .qualification_title,
+  .qualification_subtitle,
+  .qualification_calendar {
+    text-align: left;
+  }
+
+  /* Remove alternating alignment */
+  .qualification_data:nth-child(even) .qualification_title,
+  .qualification_data:nth-child(even) .qualification_subtitle,
+  .qualification_data:nth-child(even) .qualification_calendar {
+    text-align: left;
+  }
+
 }
+
 
 
 @media screen and (max-width: 470px) {
