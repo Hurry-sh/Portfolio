@@ -115,7 +115,7 @@
 @media screen and (max-width:600px) {
 
     .qualification__container {
-        max-width: 90%;
+        max-width: 87.5%;
         text-align: center;
         align-items: center;
     }
@@ -136,15 +136,15 @@
 
     /* Smaller fonts */
     .qualification__title {
-        font-size: 0.95rem;
+        font-size: 1rem;
     }
 
     .qualification__subtitle {
-        font-size: 0.8rem;
+        font-size: 1rem;
     }
 
     .qualification__calendar {
-        font-size: 0.75rem;
+        font-size: 0.8rem;
     }
 
     .qualification__button {
