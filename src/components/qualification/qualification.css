@@ -126,10 +126,9 @@
     }
 
     .qualification__data {
-        grid-template-columns: 1fr 30px 1fr;
-        column-gap: 0.7rem;
-        display: grid;
-    }
+    justify-items: center;   /* THIS centers each column content */
+    align-items: center;
+}
 
     /* Smaller fonts */
     .qualification__title {
