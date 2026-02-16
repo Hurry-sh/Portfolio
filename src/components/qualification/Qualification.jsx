@@ -10,7 +10,7 @@ const Qualification = () => {
     return (
         <section className="qualification section" id = "qualification">
             <h2 className="section__title">My Journey</h2>
-            <span className="section__subtitle">Here is my personal journey 📈</span>
+            <span className="section__subtitle">This is my journey so far, click on the Education section to find out more 😉</span>
 
             <div className="qualification__container container">
                 <div className="qualification__tabs">

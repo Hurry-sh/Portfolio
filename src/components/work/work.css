@@ -1,5 +1,5 @@
 .work {
-    background-color: rgb(23, 22, 22);;
+    background-color: rgb(0, 0, 0);;
 }
 
 .work__filters {
@@ -37,7 +37,7 @@
 
 .work__card {
     /* background-color: var(--container-color); */
-    background-color: #221f1f;
+    background-color: #171616;
     /* border: 1px solid #626262; */
     padding: 1.25rem;
     column-gap: 0.25rem;

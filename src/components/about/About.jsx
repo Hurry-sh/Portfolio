@@ -8,7 +8,7 @@ const About = () => {
     return (
         <section className="about section" id="about">
             <h2 className="section__title">About me</h2>
-            <span className="section__subtitle">Here is a bit about me 🙋‍♂️</span>
+            <span className="section__subtitle"></span>
 
             <div className="about__container container grid">
                 <img src={AboutImg} alt="" className="about__img"></img>
@@ -20,7 +20,6 @@ const About = () => {
                     </p>
 
                     <a  href="https://github.com/Hurry-sh" className="button button--flex" target="_blank" rel="noreferrer">My GitHub &nbsp;
-                    
                     {/* <svg
                 className="button__icon"
                 xmlns="http://www.w3.org/2000/svg"
@@ -47,6 +46,9 @@ const About = () => {
                 ></path>
               </svg> */}
                 <i className="uil uil-github-alt"></i>
+                    </a>
+                <a href="https://dl.acm.org/doi/10.1145/3726101.3726103" className="button button--flex" target="_blank" rel="noreferrer">My Publishment &nbsp;
+                <i class="uil uil-share-alt"></i>
                     </a>
                 </div>
             </div>

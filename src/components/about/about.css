@@ -1,5 +1,5 @@
 .about {
-    background-color: rgb(23, 22, 22);
+    background-color: #000000;
     width: 100%;
 }
 
@@ -39,8 +39,8 @@
 }
 
 .about__box {
-    background-color: #221f1f;
-    border: 1px solid rgba(0,0,0,0.1);
+    background-color: #171616;
+    border: 1px solid #171616;
     border-radius: 0.75rem;
     text-align: center;
     padding: 1rem 1.25rem;
