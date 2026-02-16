@@ -25,6 +25,7 @@
     background: linear-gradient(to right , #47ff69 , #00fff2);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text; 
+    transition: 1s;
 }
 
 .nav__list {

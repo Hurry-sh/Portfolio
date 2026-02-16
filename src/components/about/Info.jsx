@@ -28,8 +28,13 @@ const Info = () => {
             <div className="about__box">
             <i className='bx bxs-graduation about__icon'></i>
 
-                <h3 className="about__title">CGPA</h3>
-                <span className="about__subtitle">8.57</span>
+                <h3 className="about__title">Grades</h3>
+                <span className="about__subtitle">B.Tech: 8.57
+                    <br></br>
+                    12th: 92.8% 
+                    <br></br>
+                    10th: 90.6%
+                </span>
             </div>
         </div>
     )
