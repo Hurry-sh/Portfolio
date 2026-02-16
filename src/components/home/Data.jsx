@@ -55,7 +55,7 @@ const Data = () => {
                   ></path>
             </svg> */}
             </h1>
-            <h3 className="home__subtitle">B.Tech CSE Student & Data Engineer @BigBasket</h3>
+            <h3 className="home__subtitle">B.Tech CSE Student & Data Engineering Intern @BigBasket</h3>
             <p className="home__description">
                 Hey, my name is Harish K and I am a student of PES University, Bengaluru. I am a developer and my field of interest is in Machine Learning, Data Structures and Data Engineering. Welcome to my portfolio!
             </p>
